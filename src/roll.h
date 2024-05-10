@@ -11,7 +11,7 @@ public:
 
     void roll_dice();
     int roll_value() const;
-
+ 
 private:
     Die& die1;
     Die& die2;
